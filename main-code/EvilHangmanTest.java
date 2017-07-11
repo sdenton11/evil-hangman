@@ -1,6 +1,6 @@
 //*********************************
 //
-// Blackjack Test Class
+// EvilHangman Test Class
 //
 // This is a test class for the evil hangman game.
 //
